@@ -1,12 +1,11 @@
 <?php
-
 /*
-Plugin Name: Menu Spliter
-Plugin URI: https://github.com/iammdmusa/menu_split_widgets
-Description: Split you custom widgets menu using this plugins
-Author: Shuvo Musa
-Version: 0.1
-Author URI: http://www.shuvomusa.me/
+    Plugin Name: Menu Spliter
+    Plugin URI: https://github.com/iammdmusa/menu_split_widgets
+    descriptionription: Split you custom widgets menu using this plugins
+    Author: Shuvo Musa
+    Version: 0.1
+    Author URI: http://www.shuvomusa.me/
 */
 
 class musaCustomMenuSplitWidget extends WP_Widget{
